@@ -58,6 +58,11 @@
  - Bio: Software developer, studying B.Tech CSE
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+#### Name: [Anish Gandhik](https://github.com/gandhik2000)
+ - Place: West Bengal, India
+ - Bio: West Bengal, studying B.Tech IT
+ - GitHub: [Abhishek Bhatt](https://github.com/gandhik2000)
+
 #### Name: [Abhishek Bhatt](https://github.com/ab-bh)
 - Place: New Delhi, India
 - Bio: Software developer, studying B.Tech CSE
